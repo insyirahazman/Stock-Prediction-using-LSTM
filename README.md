@@ -1,4 +1,4 @@
-# Stock Prediction using LSTM
+# Stock Prediction using LSTM [(Kaggle)](https://www.kaggle.com/code/insyirahazman/stock-prediction-using-lstm)
 
 ## Overview
 This project uses a Long Short-Term Memory (LSTM) neural network to predict NVDA stock prices based on historical data. The model is implemented in Jupyter Notebook using TensorFlow and other popular data science libraries.
